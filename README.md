@@ -5,4 +5,5 @@ My Goal is to use a java-program i coded a few weeks ago and trying to visualize
 - HTML
 - CSS
 - Javascript
-It trie to use JSON files to transport Data.
+It trie to use
+JSON files to transport Data.
